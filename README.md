@@ -34,3 +34,8 @@ It is possible to create a LabView client that would support system’s WebSocke
 However, at the moment there are no free-of-charge LabView addons with WebSockets client-side support. 
 One potential LabView addon that supports WebSocket client-side capabilities can be found here:
 http://www.lvs-tools.co.uk/software/websocket_api_for_labview/
+
+<h1>Screenshots</h1>
+http://i.imgur.com/klexWPs.png<br>
+http://i.imgur.com/wzi4zZN.png
+
